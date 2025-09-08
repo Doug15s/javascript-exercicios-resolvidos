@@ -21,3 +21,12 @@ Fluxo simples para trabalhar com sua branch já existente e integrar com a `main
 9. git push origin main
 
 
+
+
+### Lista de Exercícios (criados por Victor):
+
+exercicio10-imc.js: Calcula o IMC de um adulto e informa sua condição de peso.
+
+exercicio11-pagamento.js: Calcula o valor final de um produto conforme a condição de pagamento.
+
+exercicio12-mediaAluno.js: Calcula a média de aproveitamento de um aluno, atribui conceito e status de aprovação ou reprovação.
