@@ -24,9 +24,11 @@ Fluxo simples para trabalhar com sua branch já existente e integrar com a `main
 <<<<<<< HEAD
 Bem-vindo à nossa coleção de exercícios resolvidos de JavaScript! 
 
-## Lista de Exercícios:
+## Lista de Exercícios (criados por Douglas):
 
 - `exercicio01.js`: Uma função que recebe três valores e imprime caso a soma dos dois primeiros sejam maiores do que o terceiro, ou não.
+
+- `exercicio02.js`: Uma função que recebe nome, sexo e estado civil, sendo que em caso de sexo 'F' e estado civil 'CASADA', recebe também a quantos anos.
 =======
 
 
