@@ -29,6 +29,8 @@ Bem-vindo à nossa coleção de exercícios resolvidos de JavaScript!
 - `exercicio01.js`: Uma função que recebe três valores e imprime caso a soma dos dois primeiros sejam maiores do que o terceiro, ou não.
 
 - `exercicio02.js`: Uma função que recebe nome, sexo e estado civil, sendo que em caso de sexo 'F' e estado civil 'CASADA', recebe também a quantos anos.
+
+- `exercicio03.js`: Uma função que recebe um número e informa se é par ou ímpar.
 =======
 
 
